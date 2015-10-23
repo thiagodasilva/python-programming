@@ -68,6 +68,7 @@ When lines of code are too long to fit the page, the -> indicates the code has
 been pushed onto a new line in order to fit. When copying code with this symbol
 ignore the line break and write code as a single line.
 
+-
 > ### Code Syntax Definitions
 
 > The syntax definition box explains a key piece of code in Python. It also
@@ -83,12 +84,11 @@ ignore the line break and write code as a single line.
 > age = 12
 > ```
 
-
+-
 > ### Alert: 
 
 > This is an alert. They usually contain important information, tips
 and warnings.
-
 
 ### Note: 
 
