@@ -72,6 +72,7 @@ ignore the line break and write code as a single line.
 
 The syntax definition box explains a key piece of code in Python. It also
 includes a definition of the code in its simplest form and an example.
+
 **Expression**:
 ```python
 12
