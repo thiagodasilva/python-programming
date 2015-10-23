@@ -5,7 +5,9 @@ understanding the world we live in. Programming underlies all computer
 technologies and learning to program is a very powerful skill.
 Put simply, by creating programs we can communicate instructions to a
 computer. It is creative. With programming you can create nearly anything
-you can think of. To create a program we use a programming language.
+you can think of. 
+
+To create a program we use a programming language.
 This book provides exercises and documentation in the Python programming
 language. All of the exercises use Minecraft Pi on the Raspberry Pi
 to provide concrete and fun ways to develop programming skills. Alongside
@@ -20,8 +22,9 @@ important as remembering a programming language.
 
 ## Using This Book
 This book develops programming skills through exercises using Minecraft
-and Python on the Raspberry Pi. It assumes you are using this resource alongside the Codecademy Python track and provides reference materials
-that supplement this.
+and Python on the Raspberry Pi. It assumes you are using this resource alongside the Codecademy Python track and provides reference materials that supplement this.
+
+
 Every exercise in this book is challenging and has a number of suggested
 extensions. You apply your knowledge of Python to create some really
 useful programs with Minecraft Pi. Along the way you’ll develop problem
