@@ -68,25 +68,25 @@ When lines of code are too long to fit the page, the -> indicates the code has
 been pushed onto a new line in order to fit. When copying code with this symbol
 ignore the line break and write code as a single line.
 
-### Code Syntax Definitions
+> ### Code Syntax Definitions
 
-The syntax definition box explains a key piece of code in Python. It also
-includes a definition of the code in its simplest form and an example.
+> The syntax definition box explains a key piece of code in Python. It also
+> includes a definition of the code in its simplest form and an example.
 
-**Expression**:
-```python
-12
-```
+> **Expression**:
+> ```python
+> 12
+> ```
 
-**Statement**:
-```python
-age = 12
-```
+> **Statement**:
+> ```python
+> age = 12
+> ```
 
 
-### Alert: 
+> ### Alert: 
 
-This is an alert. They usually contain important information, tips
+> This is an alert. They usually contain important information, tips
 and warnings.
 
 
