@@ -18,7 +18,7 @@ When learning to program, developing problem solving skills is just as
 important as remembering a programming language.
 
 
-### Using This Book
+## Using This Book
 This book develops programming skills through exercises using Minecraft
 and Python on the Raspberry Pi. It assumes you are using this resource alongside the Codecademy Python track and provides reference materials
 that supplement this.
