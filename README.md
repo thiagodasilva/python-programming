@@ -85,7 +85,7 @@ ignore the line break and write code as a single line.
 > ```
 
 -
-> ### :exclamation: Alert: 
+> ### Alert: 
 
 > This is an alert. They usually contain important information, tips
 and warnings.
