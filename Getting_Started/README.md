@@ -9,21 +9,21 @@ cd mcpi. Then to run Minecraft Pi use the following command in the
 terminal ./minecraft-pi.
 Once you’ve created a new game in Minecraft Pi, familiarise yourself with
 the controls:
-**w** Move the player forward
-**a** Move the player left
-**s** Move the player backwards
-**d** Move the player right
-**mouse** Change the player direction/camera angle
-**tab** Release the mouse
-**right** click Place block
-**left** click Smash block
-**scroll wheel** Change selected block
-**space** Jump (fly higher when flying)
-**double tap space** Fly (double tap again to stop flying)
-**shift** Crouch (fly lower when flying)
-**e** Block selection menu
-**1–8** Change block selection from inventory
-**esc** Open the options menu (also releases mouse)
+- **w** Move the player forward
+- **a** Move the player left
+- **s** Move the player backwards
+- **d** Move the player right
+- **mouse** Change the player direction/camera angle
+- **tab** Release the mouse
+- **right** click Place block
+- **left** click Smash block
+- **scroll wheel** Change selected block
+- **space** Jump (fly higher when flying)
+- **double tap space** Fly (double tap again to stop flying)
+- **shift** Crouch (fly lower when flying)
+- **e** Block selection menu
+- **1–8** Change block selection from inventory
+- **esc** Open the options menu (also releases mouse)
 
 Play around in Minecraft. Build some things. See how different blocks,
 like water, react when you smash their neighbours.
