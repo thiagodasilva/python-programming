@@ -91,7 +91,7 @@ to. For now let’s set our destination to co-ordinates (10, 11, 12).
 ```python
 x = 10
 y = 11
-z == 12
+z = 12
 ```
 Finally we need a single line of code that will move the player.
 ```python
